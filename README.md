@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LetMeBeJim
 - 🌱 Currently working on my own website
-- 👀 Also working on a LilMe discord bot that will pull img from pixiv and upload to server with a heartwarming message
+- Lil Jasper discord bot is a failure, he doesn't wanna upload pictures :(
+- Remember to use my to-do list api on the website tho
 - https://hellojimyao.com/ my WIP site
 
 <!---
