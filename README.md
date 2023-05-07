@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LetMeBeJim
 - 🌱 Currently working on my own website
-- Lil Jasper discord bot is a failure, he doesn't wanna upload pictures :(
-- Remember to use my to-do list api on the website tho
+- Been looking a lot into Tailwind and Framer-Motion to make good websites
+- Planning to use something nice like Django for my next project, done too many React sites
 - https://hellojimyao.com/ my WIP site
 
 <!---
