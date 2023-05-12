@@ -1,3 +1,4 @@
+Foreword?
 - 👋 Hi, I’m @LetMeBeJim
 - 🌱 Currently working on my own website
 - Been looking a lot into Tailwind and Framer-Motion to make good websites
