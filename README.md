@@ -21,6 +21,9 @@ Transport Canada, 2023
 - Developed a LangChain and LLM-based tool for quantifying administrative burdens, significantly reducing manual review time by automating burden calculations across departments.
 - Managed Databricks pipelines for data transformation and integration of multilingual regulatory data, ensuring robust data processing workflows.
 - Conducted regular knowledge-sharing sessions on machine learning and prompt-engineering techniques.
+- Achieved 95% accuracy in classifying over 200,000 regulatory data points using a fine-tuned BERT model, enhancing quick access to regulation types for regulators. Additionally, performed experiment logging and model tracking through MLFlow to ensure traceability and reproducibility of results.
+- Utilized Large Language Models to perform Entity Extraction from regulatory documents, leveraging Retrieval-Augmented Generation technique and Few-Shot prompting to automate the identification of industry activities from regulatory texts. Also performed some condensation of these entities through clustering, reducing required number of prompts by 75%.
+- Interpret requirements and ensure the solution aligns with operational goals. Participates in stakeholder meetings to clarify technical specifications, defining KPI and success metrics.
 
 **Web Designer**
 Unit Operations Laboratory, University of Toronto, 2019
